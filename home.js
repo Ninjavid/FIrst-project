@@ -67,7 +67,7 @@ function getPokemon() {
     { name: "Nidoran(m)", img: "./pokemon/32.nidoran_male.jpg" },
     { name: "Nidorino", img: "./pokemon/33.nidorino.jpg" },
     { name: "Nidoking", img: "./pokemon/34.nidoking.jpg" },
-    { name: "Clefairy", img: "./pokemon/35.Clefairy.jpg" },
+    { name: "Clefairy", img: "./pokemon/35.clefairy.jpg" },
     { name: "Clefable", img: "./pokemon/36.clefable.jpg" },
     { name: "Vuplix", img: "./pokemon/37.vulpix.jpg" },
     { name: "Ninetales", img: "./pokemon/38.ninetales.jpg" },
